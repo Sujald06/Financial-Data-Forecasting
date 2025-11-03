@@ -178,10 +178,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 > 💬 *“Predicting the market might be tough, but understanding it is the first step.”*
 
----
-
-```
-
----
-
 
