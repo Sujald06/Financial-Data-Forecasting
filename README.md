@@ -1,4 +1,4 @@
-
+# 📊 Financial Data Forecasting
 # 📈 Stock Price Prediction Using LSTM
 
 [![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?logo=streamlit)](https://stock-price-prediction-lstm.streamlit.app/)
